@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+torch
+torchvision
+transformers
+Pillow
+accelerate
+requests
+sentence-transformers
+faiss-cpu
+
+#source .venv/bin/activate 
+#pip install -r requirements.txt
+ 
