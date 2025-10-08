@@ -38,7 +38,6 @@
 import torch
 from PIL import Image
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
-import tensorflow as tf
 
 def get_device():
     if torch.backends.mps.is_available():
@@ -54,12 +53,12 @@ MODEL_PATH = "Salesforce/blip2-opt-2.7b"
 print(f"Loading BLIP-2 model on device: {DEVICE}...")
 try:
     processor = Blip2Processor.from_pretrained(MODEL_PATH)
-    
+
     model = Blip2ForConditionalGeneration.from_pretrained(
         MODEL_PATH,
         torch_dtype=torch.float16
     ).to(DEVICE)
-    
+
     print("BLIP-2 model loaded successfully!")
 
 except Exception as e:
@@ -76,11 +75,11 @@ def generate_description_from_image(image_path: str) -> str | None:
         raw_image = Image.open(image_path).convert('RGB')
 
         inputs = processor(raw_image, return_tensors="pt").to(DEVICE, dtype=torch.float32)
-        
+
         outputs = model.generate(**inputs, max_new_tokens=100)
-        
+
         description = processor.decode(outputs[0], skip_special_tokens=True)
-        
+
         return description.strip()
 
     except Exception as e:
