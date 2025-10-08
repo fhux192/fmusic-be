@@ -75,6 +75,8 @@ def suggest_song_route():
             })
         else:
             return jsonify({'error': 'Could not process the image'}), 500
+    return None
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001)
