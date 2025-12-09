@@ -1,5 +1,4 @@
 SONG_CANDIDATES = [
-    # --- SOOBIN ---
     "pleading, partner silent, partner withdrawn, emotional stonewalling, relationship conflict, agony of uncertainty, desperation, needing the truth, fearing loss, internal struggle, dramatic tension, emotional ballad, building urgency",
     "reflecting on past, deeply regretful, melancholic, missed opportunity, failure to confess, years of longing, nostalgic sadness, questioning the past, asking 'what if', pain of inaction, sad love ballad",
     "adjusting to emptiness, post-breakup loneliness, profound isolation, reminiscing lost happiness, becoming accustomed to being alone, internal focus, processing heartbreak, piano-driven ballad, pervasive sadness",
@@ -13,7 +12,6 @@ SONG_CANDIDATES = [
     "regretful rewinds, rewinding past scenes, sad embraces, empty halls, longing echoes, dimly lit pathways, wishing for change, emotional, deep longing, regret, if only",
     "confident struts, walking confidently, neon-lit nightclubs, playful flirtations, dancing crowds, energetic poses, electronic glows, embracing carefree romance, bold, fun approach to love, the playah",
 
-    # --- SƠN TÙNG M-TP ---
     "energetic dancing, feeling good, bold happy declaration, celebrating joy, committing love, high-energy party, passion and devotion, celebratory v-pop, intensely romantic, upbeat",
     "promising eternal presence, reassuring partner, playful interactions, romantic couple moments, walking in city parks, vibrant cityscapes, colorful lights, emphasizing happiness, sweet reassurance",
     "thinking late-night about crush, introspective walks, surreal dream sequences, floating elements, dreamy obsession, romantic longing, nighttime urban scenes, neon lights, lovestruck, chill",
@@ -67,7 +65,6 @@ SONG_CANDIDATES = [
     "delivering smooth lines, gestures of affection, sweet persuasion, art of wooing, using kind words, playful winks, light-hearted pursuits, whispered conversations, shared laughs, candlelit dinners, moonlit walks, elegant settings, seductive, charming, sweet talk",
     "contemplating choices, balanced scales, mirrored reflections, abstract landscapes, equal chances, coins flipping, paths diverging, thoughtful gazes, measured steps, introspection, fairness, decision-making, maintaining equilibrium, symmetrical compositions, balanced, 50-50",
 
-    # --- LYLY / PHƯƠNG LY ---
     "cycling thoughts, clock-filled rooms, longing stares at phones, twilight, emotional breakdowns, guitar strums, questioning moving on, nonstop heartbreak, reflections, melancholic, 24 hours",
     "flirtatious exchanges, candy-colored scenes, playful winks, dancing, romantic whispers, energetic crowds, using sweet talk, fun, playful, energetic, sweet talk",
     "intimate caresses, touching piano keys, sweet gazes, soft-lit rooms, emotional connections, close-up embraces, explaining love's influence, sweet intimacy, romantic, emotional, because it's love",
@@ -79,7 +76,6 @@ SONG_CANDIDATES = [
     "joyful reunions, sunny parks, nostalgic fun, light-hearted chases, romantic gestures, blooming flowers, conveying light missing, upbeat romance, fun longing, happy, missing you",
     "energetic clapping, clapping crowds, festive arenas, happy jumps, motivational banners, fun group dances, bright stages, encouraging enjoyment, inspiring joyful participation, upbeat, clap hands",
 
-    # --- ĐỨC PHÚC ---
     "sunny embraces, golden fields, joyful walks, walking hand-in-hand, romantic sunrises, warm glows, declaring love as light, symbolizing happiness, warmth, feel-good, romantic, his sunshine",
     "emotional commitments, scenic vistas, uplifting hugs, hugging under starry skies, joyful tears, intimate settings, expressing profound affection, deeper-than-love happiness, uplifting, romantic, more than love",
     "hopeful reconciliations, cozy homes, emotional embraces, soft lights, happy resolutions, blooming gardens, affirming enduring love, positive renewal, uplifting, hopeful, romantic, we still love each other",
@@ -91,7 +87,6 @@ SONG_CANDIDATES = [
     "emotional lifelong vows, elegant halls, uplifting cares, daily scenes, committed embraces, soft glows, pledging devotion, expressing eternal happiness, committed, romantic, take care of you for life",
     "heroic poses, ancient battlefields, motivational marches, marching with flags, uplifting victories, dramatic skies, inspiring strength, patriotic heroism, positivity, energetic, motivational, Phu Dong Thien Vuong",
 
-    # --- HOÀNG THÙY LINH ---
     "cute flirtations, whimsical settings, playful dances, viral challenges, upbeat heart gestures, colorful backdrops, capturing instant attraction, adorable love at first sight, playful, flirty, see love",
     "sassy struts, traditional attire, energetic cultural dances, modern twists, empowering poses, folklore scenes, demanding attention, rebellious, celebrating female strength, heritage, let Mi tell you",
     "haunting apparitions, misty forests, dramatic romantic encounters, supernatural glows, emotional connections, ethereal realms, weaving fate's threads, mystical, eerie positive love stories, karmic Hmong love",
@@ -106,7 +101,6 @@ SONG_CANDIDATES = [
     "energetic pursuits, vibrant cityscapes, youthful leaps, colorful dream sequences, inspiring group dances, starry skies, pulsing with ambition, chasing dreams, youthful energy, motivational, dream's heartbeat",
     "emotional heart flutters, close-up whispers, thrilling encounters, nostalgic flashbacks, sweet embraces, warm lighting, capturing new emotions, thrilling sweetness, budding love, romantic, tremble (emotion)",
 
-    # --- ĐEN VÂU ---
     "dreamy wanders, wandering misty forests, reflective gazes, looking at flowing rivers, free-spirited drifts, open fields, embracing carefree thoughts, chill reflections, life's flow, introspective, absent-minded, chill",
     "warm family gatherings, cozy homes, nostalgic meals, wooden tables, grateful hugs, soft lanterns, savoring home's essence, expressing gratitude, family bonds, nostalgic, heartfelt, taste of home",
     "serene walks, lush jungles, cultural dances, ethnic instruments, inspirational views, cascading waterfalls, harmonizing with nature, peaceful, cultural serenity, inspiration, music of the forest",
@@ -123,7 +117,6 @@ SONG_CANDIDATES = [
     "reflective clouds, clouds over vast horizons, hopeful breakthroughs, sun rays, resilient stands, standing in windy fields, turning gloom around, uplifting, blending melancholy and hope, resilient, today is very cloudy",
     "bold leaps, leaping into passionate dances, fun romantic escapades, energetic crowds, daring embraces, embracing under lights, embracing reckless love, fun boldness, passionate, energetic, rushing in for love",
 
-    # --- ERIK ---
     "couples reuniting, reuniting at bus stops, reuniting in cafes, hopeful embraces, devoted embraces, embracing under rainy skies, cozy home settings, returning to each other, overcoming obstacles, romantic, hopeful, after all",
     "engaging in heated arguments, luxurious settings, expensive cars, high-rise apartments, solitary reflective stares, staring out large windows, shedding regretful tears, emphasizing mutual blame, relationship's end, sad, you're not wrong we're wrong",
     "chance meetings, meeting in bustling crowds, meeting on public transport, nostalgic warm-toned flashbacks, happier past, solitary moments, reflectively gazing at stars, questioning separation, fated forever, melancholic, nostalgic, lost forever",
@@ -149,7 +142,6 @@ SONG_CANDIDATES = [
     "patriotic lyric video, traditional Vietnamese imagery, national imagery, historical motifs, maps, inspiring pride, inspiring unity, resilience, invoking historical poem, traditional pride, modern uplifting sound, patriotic",
     "straightforward lyric video, soft romantic visuals, flowers, couples, heart motifs, heartfelt expressions, explicitly promising eternal love, devoted love, commitment, reassuring, devoted, sweet, love and love",
 
-    # --- MIN ---
     "solitary figure, wandering empty urban streets, sitting alone in dark, searching for lost love, slow melancholic movements, longing expression, autumn leaves, cold silence, isolation, heartbreak, nostalgia, pain of separation, persistent hope, lost",
     "performance-oriented, young woman grappling, emotional turmoil, unrequited love, heartbreak, dynamic choreography, expressive dance sequences, inner struggles, moments of despair, emotionally stuck, cycle of longing, pain, difficulty moving on, stuck, miss",
     "atmospheric timeworn streets, Hanoi Old Quarter, solitary figure, haunted by vanished romance, quiet dimly lit alleys, fleeting flashbacks, shared moments, melancholic piano, tender recollection, resolute farewell, pleading for release, love dissolved, get out, empowering",
@@ -164,7 +156,6 @@ SONG_CANDIDATES = [
     "quiet dimly lit crossroad, 2am, heartfelt encounter, sharing emotional vulnerability, intimate reflective scenes, sitting close, watching passersby, exchanging longing glances, unrequited love, pain of being overlooked, deep enduring devotion, emotionally tied to another, i am the one who loves you",
     "muted intimate lighting, woman's quiet unraveling, dimly lit rooms, empty streets, drifts through solitary moments, fleeting glances, distant figure, weary eyes, trembling hands, soft-focus memories, fading connection, loving too deeply, unreciprocated devotion, bittersweet resolve to let go, exhaustion, don't love anymore i'm tired",
 
-    # --- B RAY ---
     "moody urban landscapes, dim lighting, rain-slicked streets, solitary figure, grappling with breakup, flashing back, intimate moments, shared laughter, embraces, present-day isolation, warm-toned memories, pained expressions, symbolic barriers, locked doors, apologies for past mistakes, pain of separation, lingering hope, reconciliation, safe zone",
     "vibrant dynamic shots, bright lighting, fast-paced edits, journey of self-discovery, finding comfort in roots, navigating city streets, homey interiors, energetic performances, symbolic imagery, opening doors, embracing friends, sense of belonging, overcoming loneliness, cherishing connections, embracing change, feel at home",
     "stylish urban apartment, colorful lighting, quirky animations, couple dealing with jealousy, miscommunication over phone calls, humorous confrontations, tender reconciliations, comic book graphics, dancing and arguing, possessiveness in love, thrill of pursuit, playful warnings, please don't pick up",
@@ -186,7 +177,6 @@ SONG_CANDIDATES = [
     "towering cityscapes, cold blue tones, overlooking views, reflections from high places, life, lost connections, solitary figures on balconies, urban lights, flashback montages, isolation amid bustle, pondering ambition, regret, human bonds, poignant dialogue, skyscraper 20",
     "whimsical wedding-inspired scenes, soft pastels, celebratory elements, revolves around proposal, visions of future happiness, ring exchanges, dances, family gatherings, radiating warmth, desire for marriage, commitment, shared life, optimistic, marry me",
 
-    # --- DA LAB ---
     "vibrant youthful settings, warm sunlight, dynamic group scenes, friends reliving memories, younger days, adventures, heartfelt conversations, fast-paced montages, laughter, play, introspective moments, gazing at old photos, passing time, transience of youth, cherishing shared experiences, bittersweet longing, youth",
     "dreamy cinematic landscapes, inspired by classic films, couple escaping daily worries, spontaneous travels, tender embraces, soft-focus shots, sunsets, road trips, intimate dances, freedom, connection, setting aside anxieties, embracing the present, finding solace, mutual support, put worries aside",
     "high-energy urban environments, dramatic lighting, fast cuts, protagonist awakening, awakening from complacency, breaking free from routines, bold actions, self-discovery, symbolic awakenings, shattering glass, rising at dawn, transformation, rousing from emotional slumber, pursuing dreams, wake up",
@@ -208,7 +198,6 @@ SONG_CANDIDATES = [
     "festive gatherings, bright decorations, group dances, ushering in prosperity, ushering in happiness, celebrations, smiles, toasts, vibrant colors, evoking cheer, opening doors to good fortune, sharing joy, optimistic new beginnings, festive, open thousand joys",
     "gritty street cyphers, high-energy performances, urban backdrops, dedication to hip-hop, rhythmic flows, crowd engagements, symbolic beats, conveying commitment, unbreakable passion, resilience against doubters, cultural pride, defiant, nobody can quit hiphop",
 
-    # --- GREY D ---
     "nighttime drive, driving through city, sweet protective gesture, city lights, car interiors, candid moments, couple, intimate vibe, simple acts of love, companionship, comfortable silence, chill, catchy beat, take you home",
     "meteorological metaphors, metaphors for emotional states, changing weather backdrops, rain, sun, clouds, aesthetic symbolic visuals, indoor loneliness, emotional volatility, uncertainty about future, seeking clarity, calm, atmospheric, today's weather forecast rain",
     "evocative lyrics, rain-themed imagery, longing, promise to return, amidst sorrow, lyric video, rain, windows, somber blue-toned aesthetic, heartbreak, waiting, connection between love and melancholy, sad ballad, i will come with the rain",
@@ -225,7 +214,6 @@ SONG_CANDIDATES = [
     "silent rain, symbol of quiet sorrow, misty landscapes, slow-motion rain, introspective figures, inner turmoil, solitude, emotional release, calm, atmospheric, sad, reflective, silent dark rain",
     "explores fading feelings, sense of acceptance, soft blurred scenes, everyday life, subtle emotions, letting go, self-reflection, finding peace, relaxed, chill vibe, gentle, romantic, fading-fine",
 
-    # --- ORANGE ---
     "journey of overcoming hardships, swimming against the current, symbolizing inner strength, rebirth, dynamic water imagery, intense performances, transformative moments, powerful motivational atmosphere, perseverance, self-discovery, rising above challenges, soaring vocals, empowering, swimming upstream",
     "bittersweet acceptance, lover moving on, advising to love someone else, hiding personal pain, separation scenes, rainy days, emotional restraint, urban settings, maturity in heartbreak, self-sacrifice, quiet resignation, smooth R&B, sad, you should love her",
     "imagines reuniting, reuniting at age 60, cherishing enduring love, love across time, warm vintage filters, aging effects, tender couple moments, timeless romance, commitment, looking forward with optimism, soft evocative vocals, nostalgic, meet again at 60",
@@ -242,7 +230,6 @@ SONG_CANDIDATES = [
     "embraces dreams, dreams as solace, escape from reality, floating imagery, bedtime scenes, surreal elements, finding peace in imagination, healing through fantasy, gentle release, airy vocals, minimal instrumentation, lullaby-like, embracing dreams",
     "questions self-identity, feeling like fictional character, own story, book pages, masked faces, distorted realities, probe authenticity, detachment from life, searching for meaning, brooding tones, experimental sounds, existential, fictional character",
 
-    # --- HOÀNG DŨNG ---
     "idealized muse, inspiring deep emotions, inspiring creativity, artistic scenes, soft focus, symbolic elements, poetry books, flowers, admiration, inspiration from love, bittersweet longing, gentle ballad, expressive vocals, romantic, poetic, muse",
     "conveys promise of return, promise of waiting, set against separation, violin performances, emotional close-ups, scenic landscapes, patience, commitment, tender affection, blending acoustic sounds, heartfelt lyrics, yearning, romantic, wait for me",
     "reflects on ending chapter, beginning another, symbolizing growth after heartbreak, transitions, nature changes, introspective moments, closure, renewal, emotional resilience, poignant vocals, piano-driven melody, healing, new ending",
@@ -259,7 +246,6 @@ SONG_CANDIDATES = [
     "honors those who plant seeds, seeds of positivity, seeds of growth, nature, planting metaphors, uplifting interactions, contribution, legacy, positive impact, warm vocals, acoustic elements, inspiring, motivational, the green sower",
     "traces progression from like to love, playful progression, cute animations, couple moments, vibrant colors, celebrate evolving feelings, affection, joyful romance, sweet pop sound, duet harmony, cute, romantic, from like to love",
 
-    # --- VŨ. ---
     "poetic lyrics, strange feelings, love at first sight, urban night scenes, hazy city lights, wandering figures, subtle emotional expressions, mystery of attraction, fleeting moments, inner confusion, soft acoustic guitar, melancholic, strange",
     "moving through loneliness, winter, seasonal metaphors, snowy landscapes, empty streets, gradual warming imagery, emotional recovery, acceptance of solitude, finding inner peace, piano and strings, healing ballad, stepping through the lonely season",
     "searching for lost love, cold winter, symbolic elements, frost, memories, wintry forests, searching gazes, flashback moments, longing, persistence in love, seasonal melancholy, melodic folk style, winter searches for you",
@@ -281,7 +267,6 @@ SONG_CANDIDATES = [
     "weaving a tale, unspoken events, leaving room for interpretation, abstract art, shadowed stories, enigmatic symbols, hidden truths, personal anecdotes, ambiguity, chill alternative sound, mysterious, narrative, that story",
     "declaring foolish love, declaring youthful love, with abandon, spontaneous acts, vibrant colors, energetic dances, celebrates naive passion, reckless affection, joy in love, energetic pop beat, innocent, passionate, foolish love words",
 
-    # --- ANH TRAI SHOW & GROUP PERFORMANCES ---
     "group performance, expressing icon status, expressing unity, bold lyrics, high-energy choreography, vibrant lighting, synchronized moves, self-empowerment, teamwork, stardom, pop-rap style, confident, energetic, large group, icon",
     "large group performance, showcasing style, showcasing confidence, catchy lyrics, fashionable outfits, dynamic dances, stage effects, swagger, brotherhood, coolness, pop performance style, confident, stylish, handsome",
     "capturing attraction, capturing allure, smooth lyrics, shadow play, intimate lighting, fluid movements, fascination, desire, magnetism, blended in smooth R&B, seductive, alluring, mysterious, inhale/attract",
@@ -337,7 +322,6 @@ SONG_CANDIDATES = [
     "dreamy group performance, about the stars, inspirational lyrics, celestial visuals, sparkling effects, uplifting performances, dreams, stars, aspiration, pop style, female group, inspirational, the stars",
     "emotional group performance, saying hi not goodbye, unity lyrics, group hugs, emotional moments, grand finale, goodbye, friendship, continuation, pop style, large group, farewell, unity",
 
-    # --- TĂNG DUY TÂN & OTHERS ---
     "exploring essence of first love, poignant lyrics, youthful romance, gentle visuals, sincere expressions, initial affection, cherished memories, heartfelt longing, melodic ballad form, nostalgic, romantic, first love",
     "capturing innocent charm, lively lyrics, lyric video, vibrant colors, animated text, fun imagery, naivety, joy, youthful energy, upbeat pop rhythm, playful, innocent, naive",
     "reflecting on unforgettable moments, subtle lyrics, close-up shots, minimalistic settings, raw vocals, enduring memories, emotion, introspection, acoustic style, intimate, melancholic, 05 (not fade)",
@@ -432,4 +416,5 @@ SONG_CANDIDATES = [
     "comprehensive love, from beginning to end, full commitment, emotional depth, melodic builds, trumpet, keys, romantic journey, interaction, expression, intimacy, tender, contemplative, affection, completeness, A to Ă (all-encompassing)",
     "fleeting romance, short-lived love, desire for eternal connection, brevity of moment, being together in present, holding hands, dreaming longer, finding each other, drunken bliss, acceptance, tomorrow like today, emotional ballad, soft melodic vocals, dreamy, romantic, love you 2 days",
     "sweetness in love, attraction, playful romance, candy as metaphor, irresistible affection, pop with rap, catchy hooks, upbeat rhythms, fun interactions, vibrant scenes, pursuit, connection, colorful settings, dynamic movements, lively, joyful, delight, flirtation, playful, fun, candy"
+
 ]
